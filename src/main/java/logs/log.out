@@ -1,0 +1,9 @@
+2022-02-13 15:02:167 INFO  FeaturedTileFilterPage :48 - Set Animal by sending letter : a
+2022-02-13 15:02:702 INFO  FeaturedTileFilterPage :58 - Move max life span slider to: 40
+2022-02-13 15:02:979 INFO  FeaturedTileFilterPage :73 - Click on Ascending :[[ChromeDriver: chrome on WINDOWS (da1a6a51622132ac0d2850ce983814c5)] -> xpath: //div[@class='labelAnchor']]
+2022-02-13 15:02:83 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-02-23 17:02:158 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-02-23 17:02:454 INFO  FeaturedTileFilterPage :48 - Set Animal by sending letter : a
+2022-02-23 17:02:77 INFO  FeaturedTileFilterPage :58 - Move max life span slider to: 40
+2022-02-23 17:02:294 INFO  FeaturedTileFilterPage :73 - Click on Ascending :[[ChromeDriver: chrome on WINDOWS (cced94e9c8b310018e6709252f4c03c1)] -> xpath: //div[@class='labelAnchor']]
+2022-02-23 17:02:143 INFO  ManageDriver :33 - Launching Chrome Browser
