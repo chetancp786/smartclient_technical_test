@@ -8,7 +8,8 @@ Feature: SmartClient technical test
     And select checkbox to ascending
     Then User assert that results contain more than 12 items
 
-  @SMOKE
+  @SMOKE @365
+  ##REGRE
 Scenario: Check nested grid page functions are working fine
   Given User is on the nested grid page
   When User selects item with name 'correction'
